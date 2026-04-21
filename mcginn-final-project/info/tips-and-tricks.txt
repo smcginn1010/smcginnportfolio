@@ -1,0 +1,63 @@
+Tips & Tricks
+
+Use start code and previous demo steps for reference
+
+On Canvas, you can find further resources Modules --> Course resources
+
+
+
+HTML: 
+
+Wrap groups of content in separating elements, like <article> <section> or <div>
+
+Using a class on repeated elements (like the images on the home page) can help with styling
+
+
+
+CSS: 
+
+Height and Width for images and elements in CSS can be controlled with px, %, and vw
+
+Padding: between content and border, Margin: outside the border (between box and surrounding boxes)
+  
+margin: auto; will center content, if it doesn’t work try making sure the element is a block level element with display: block; and setting the width of the element
+
+Flexbox is very helpful for centering content too 
+
+Centering Guide: https://css-tricks.com/centering-css-complete-guide/
+
+Flexbox Guide: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+CSS selectors can help narrow down where you are applying styles
+
+Class attributes in HTML can be repeated, helpful for styling repeated things. Use a period before the class name to reference in CSS
+
+ID attributes in HTML can only be used once, helpful for styling specific things. Use a hashtag before the id name to reference in CSS
+
+
+
+Sizes: 
+
+Page Width: 1920px 
+
+Header Height: 220px (logo image width: 300px)
+
+Footer Height: 170px (logo image height: 125px) 
+
+
+
+Recommended Workflow: 
+
+Download folder, unzip and rename
+
+Set up page structure --> Add <header> and <footer> content
+
+Add sections --> Add content from page-content.txt to index.html in proper HTML formatting 
+
+Validate HTML and get code reviewed by your instructor
+
+Start CSS styling --> Start with big impact things first, like background-color and color properties, any styling applied to the body element, etc. then get more specific 
+
+Validate CSS and get code reviewed by your instructor 
+
+Zip folder and upload to Canvas

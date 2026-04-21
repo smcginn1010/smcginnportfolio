@@ -1,0 +1,10 @@
+Bonus Point Opportunities
+
+1: Menus (+3)
+
+Make the images on the menu page each link to a png that opens on a new page
+
+
+2: Hover Effects (+3)
+
+Use pseudo classes in CSS to add hover effects to the links (color and line), and to add hover effect using border properties to the footer logo (border and border radius)

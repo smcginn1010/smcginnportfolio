@@ -1,0 +1,100 @@
+/* Page Styling */
+
+* {
+    margin: 0;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #fff7f0;
+}
+a {
+    color:#ed8731;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 42.5px;
+}
+a:hover {
+    text-decoration: underline;
+    color:#3f4a39;
+}
+header {
+    background-color: #fff7f0;
+    text-align: center;
+}
+#logo {
+    display: block;
+    margin: auto;
+    width: 25%;
+}
+img {
+    display: block;
+    margin: auto;
+}
+h1,h2, h3, p {
+    text-align: center;
+}
+
+footer {
+    background-color: #3f4a39;
+    display: flex;
+    justify-content: space-between;
+}
+#footerlogo:hover {
+    border: 5px solid #fff7f0;
+    border-radius: 5px;
+}
+footer nav {
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+}
+footer img{
+    width: 150px;
+    margin: 1px;
+}
+footer a {
+    color: #fff7f0;
+    text-decoration: underline;
+    padding: 10px;
+}
+footer a:hover {
+    color: #ed8731;
+    text-decoration: none;
+}
+#menuimgs {
+    display: flex;
+    flex-direction: row;
+}
+#menuimgs img{
+    width: 100%;
+}
+#address a {
+    font-size: medium;
+    padding: 0;
+    color:#3f4a39;
+    text-decoration: underline;
+}
+/* Form Styling */
+
+section {
+    text-align: center;
+    width: 1000px;
+    margin: auto;
+    padding: 25px;
+}
+
+input {
+    padding: 7px;
+    margin: 7px;
+    border-radius: 5px;
+    border: 1px solid #f2a363;
+    background-color: #ffefe2;
+    font-weight: bold;
+}
+
+label {
+    margin: 7px;
+    font-weight: bold;
+}
