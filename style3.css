@@ -46,6 +46,7 @@ header {
     font-size: 20pt;
     position: sticky;
     top: 0;
+    background-color: #EBF4DD;
 }
 iframe {
     align-items: center;
