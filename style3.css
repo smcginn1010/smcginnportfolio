@@ -45,3 +45,6 @@ header {
     text-align: center;
     font-size: 20pt;
 }
+iframe {
+    align-items: center;
+}
