@@ -44,6 +44,8 @@ header {
     align-items: center;
     text-align: center;
     font-size: 20pt;
+    position: sticky;
+    top: 0;
 }
 iframe {
     align-items: center;
