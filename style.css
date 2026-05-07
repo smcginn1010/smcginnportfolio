@@ -28,6 +28,7 @@ a {
     color: #5A7863;
     text-decoration: underline;
     font-family: 'Times New Roman', Times, serif;
+    font-size: 16pt;
 }
 a:hover{
     color:#3B4953;
